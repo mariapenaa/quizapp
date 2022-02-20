@@ -12,10 +12,9 @@ This webapp was built with ReactJs. It is a simple multiple choice quiz, where u
 
 ### 📷Screenshot
 
-- Desktop: 
+
 ![](./public/quizapp1.png)
 
-- Mobile: 
 ![](./public/quizapp2.png)
 
 
